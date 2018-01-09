@@ -1,7 +1,8 @@
 # StarCraft2-Reinforcement-AI-FLAIRE-
 Data repository for a machine learning entity of Starcraft2 using Deepmind & pysc2
 
--Resources-\n
+-Resources-
+
 Python
 https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe
 
