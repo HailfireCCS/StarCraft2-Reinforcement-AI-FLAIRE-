@@ -20,3 +20,6 @@ https://www.sublimetext.com/3
 
 software library for Machine Intelligence.
 https://github.com/tensorflow/tensorflow
+
+Jave IDE
+https://www.jetbrains.com/idea/
