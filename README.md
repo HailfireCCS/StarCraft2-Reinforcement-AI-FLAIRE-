@@ -18,3 +18,5 @@ https://github.com/Blizzard/s2client-proto#downloads
 Text Editor & Compiler
 https://www.sublimetext.com/3
 
+software library for Machine Intelligence.
+https://github.com/tensorflow/tensorflow
